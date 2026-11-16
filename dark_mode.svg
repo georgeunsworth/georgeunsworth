@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100px" height="840px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1030px" height="840px">
 <style>
 text, tspan {white-space: pre; font-family: ConsolasFallback, Consolas, Menlo, 'DejaVu Sans Mono', 'Courier New', monospace;}
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
 .quote {fill: #8b949e; font-style: italic;}
 </style>
-<rect width="1100px" height="840px" fill="#161b22" rx="15"/>
+<rect width="1030px" height="840px" fill="#161b22" rx="15"/>
 <text xml:space="preserve" font-size="16px" fill="#c9d1d9">
-<tspan x="30" y="30">==========================================================================</tspan>
-<tspan x="30" y="50">==========================================================================</tspan>
+<tspan x="30" y="30">==========================================================================  <tspan class="key">Building</tspan></tspan>
+<tspan x="30" y="50">==========================================================================  <tspan class="value">Harla / harla.co.uk</tspan></tspan>
 <tspan x="30" y="70">=======================================================*##*===============</tspan>
-<tspan x="30" y="90">=======================================================#@*%@==============</tspan>
-<tspan x="30" y="110">===========================@#============-=============#@=%@==============</tspan>
+<tspan x="30" y="90">=======================================================#@*%@==============  <tspan class="key">LinkedIn</tspan></tspan>
+<tspan x="30" y="110">===========================@#============-=============#@=%@==============  <tspan class="value">/in/georgeunsworth/</tspan></tspan>
 <tspan x="30" y="130">=========================*@+#@*==+=-----------========+%@==+@*============</tspan>
 <tspan x="30" y="150">========================-*@+==+%%*@#=----------==-====@%*@*+@*============</tspan>
-<tspan x="30" y="170">=====================----*@+===@@=@%=------=========-=@%===+@*============</tspan>
-<tspan x="30" y="190">====================------=@#==%%=@%+-=+++*@@@@@@@@*+++%@==+@#++==========</tspan>
-<tspan x="30" y="210">=================---------=###=====+%#%@@@%********%@@@@@#++@@@%%*========</tspan>
-<tspan x="30" y="230">================---------*@@@@@@%====@%******************#%@#@@#@%========</tspan>
-<tspan x="30" y="250">===============--------=@@**#####@*#@**********************#@%*#@#========</tspan>
-<tspan x="30" y="270">=============----------=*%%#%@@%%*%%***********************#@%%#+=========</tspan>
+<tspan x="30" y="170">=====================----*@+===@@=@%=------=========-=@%===+@*============  <tspan class="quote">“Villains who twirl their</tspan></tspan>
+<tspan x="30" y="190">====================------=@#==%%=@%+-=+++*@@@@@@@@*+++%@==+@#++==========  <tspan class="quote">mustaches are easy to</tspan></tspan>
+<tspan x="30" y="210">=================---------=###=====+%#%@@@%********%@@@@@#++@@@%%*========  <tspan class="quote">spot. Those who clothe</tspan></tspan>
+<tspan x="30" y="230">================---------*@@@@@@%====@%******************#%@#@@#@%========  <tspan class="quote">themselves with good</tspan></tspan>
+<tspan x="30" y="250">===============--------=@@**#####@*#@**********************#@%*#@#========  <tspan class="quote">deeds are well</tspan></tspan>
+<tspan x="30" y="270">=============----------=*%%#%@@%%*%%***********************#@%%#+=========  <tspan class="quote">camouflaged.”</tspan></tspan>
 <tspan x="30" y="290">=============------------*@#***@@#**********@@@#*********@@@*@@===========</tspan>
 <tspan x="30" y="310">============--------------+@%**##*********#@+*@@%******%@=#@@%#@+=========</tspan>
 <tspan x="30" y="330">===========--------------=++%@@@@*********#@@@@@%******%@@@@@%#@*=========</tspan>
@@ -47,17 +47,5 @@ text, tspan {white-space: pre; font-family: ConsolasFallback, Consolas, Menlo, '
 <tspan x="30" y="770">==========================================================================</tspan>
 <tspan x="30" y="790">==============+++++++++++++++++++++++++++++++++++++++++++=================</tspan>
 <tspan x="30" y="810">==========================================================================</tspan>
-</text>
-<text xml:space="preserve" font-size="18px" fill="#c9d1d9">
-<tspan class="key" x="790" y="31">Building</tspan>
-<tspan class="value" x="790" y="59">Harla / harla.co.uk</tspan>
-<tspan class="key" x="790" y="115">LinkedIn</tspan>
-<tspan class="value" x="790" y="143">/in/georgeunsworth/</tspan>
-<tspan class="quote" x="790" y="227">“Villains who twirl their</tspan>
-<tspan class="quote" x="790" y="255">mustaches are easy to</tspan>
-<tspan class="quote" x="790" y="283">spot. Those who clothe</tspan>
-<tspan class="quote" x="790" y="311">themselves with good</tspan>
-<tspan class="quote" x="790" y="339">deeds are well</tspan>
-<tspan class="quote" x="790" y="367">camouflaged.”</tspan>
 </text>
 </svg>
