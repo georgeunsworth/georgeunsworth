@@ -49,15 +49,15 @@ text, tspan {white-space: pre; font-family: ConsolasFallback, Consolas, Menlo, '
 <tspan x="30" y="810">==========================================================================</tspan>
 </text>
 <text xml:space="preserve" font-size="18px" fill="#24292f">
-<tspan class="key" x="805" y="256">Building</tspan>
-<tspan class="value" x="805" y="284">Harla / harla.co.uk</tspan>
-<tspan class="key" x="805" y="340">LinkedIn</tspan>
-<tspan class="value" x="805" y="368">/in/georgeunsworth/</tspan>
-<tspan class="quote" x="805" y="452">“Villains who twirl their</tspan>
-<tspan class="quote" x="805" y="480">mustaches are easy to</tspan>
-<tspan class="quote" x="805" y="508">spot. Those who clothe</tspan>
-<tspan class="quote" x="805" y="536">themselves with good</tspan>
-<tspan class="quote" x="805" y="564">deeds are well</tspan>
-<tspan class="quote" x="805" y="592">camouflaged.”</tspan>
+<tspan class="key" x="790" y="31">Building</tspan>
+<tspan class="value" x="790" y="59">Harla / harla.co.uk</tspan>
+<tspan class="key" x="790" y="115">LinkedIn</tspan>
+<tspan class="value" x="790" y="143">/in/georgeunsworth/</tspan>
+<tspan class="quote" x="790" y="227">“Villains who twirl their</tspan>
+<tspan class="quote" x="790" y="255">mustaches are easy to</tspan>
+<tspan class="quote" x="790" y="283">spot. Those who clothe</tspan>
+<tspan class="quote" x="790" y="311">themselves with good</tspan>
+<tspan class="quote" x="790" y="339">deeds are well</tspan>
+<tspan class="quote" x="790" y="367">camouflaged.”</tspan>
 </text>
 </svg>
